@@ -5,8 +5,8 @@ Hello, I'm Lucas, I'm graduated in Electronics Technician at Fundação Escola T
 I am very committed and focus to became a aswome front-end developer, currently studying Web Development Front-End.
 
 ## my values 
-<li>the learning is the first step for do everything.
-love everything i do.</li>
+<li>the learning is the first step for do everything.</li>
+<li>love everything i do.</li>
 <li>hunger for knowledge.</li>
 <li>I always give 100% of myself in everything.</li>
 <li>I may not know something but I can learn.</li>
