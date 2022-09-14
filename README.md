@@ -1,4 +1,4 @@
-# Lucas Comparssi Brum de Oliveira
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=120&pause=1000&color=09F000&background=FFFFFF00&vCenter=true&width=3000&height=200&lines=Hi!+I'am+Lucas+Comparssi+Brum+de+Oliveira;Junior+Front-End+Developer)](https://git.io/typing-svg)
 
 Hello, I'm Lucas, I'm graduated in Electronics Technician at Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 
 
